@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Data Science Enthusiast
 -----------------------------------------
 
-I am in my junior year as a computer science student at a state university. I started my journey in coding in my freshman year, from then I continued to improve by building well crafted web applications. These days my time is spent delving into the world of data science, attempting to fuse useful insights extracted from big data to the web. More about me is that I like reading, writing, and I like listening to music. I seldom play games now :)
+I am in my junior year as a computer science student at a state university. I started my journey in coding in my freshman year. From then on, I continued to improve by building well crafted web applications. These days my time is spent delving into the world of data science, attempting to fuse useful insights extracted from big data to the web. More about me is that I like reading, writing, and I like listening to music. I seldom play games now :)
 
 * 🌍  I'm based in Philippines
 * ✉️  You can contact me at [jonathannnpstl@gmail.com](mailto:jonathannnpstl@gmail.com)
